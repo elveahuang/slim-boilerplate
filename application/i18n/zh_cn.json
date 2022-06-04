@@ -1,0 +1,6 @@
+{
+    "title" : "简体中文",
+    "common_login" : "",
+    "validation_not_blank" : "This field can not be empty.",
+    "user_field_username" : "Username"
+}
